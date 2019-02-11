@@ -27,3 +27,9 @@ vt.myvisualiq.net
 #test
 Crl.comodoca.com
 Crl.comodoca4.com
+
+#Kaspersky telemetry?
+geo.kaspersky.com
+geo.labkas.com
+kaspersky-labs.com
+kas-labs.com
