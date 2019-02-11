@@ -11,3 +11,19 @@ t.checkappexec.microsoft.com
 
 #spotify test
 adeventtracker.spotify.com
+pixel-static.spotify.com
+
+#ads test
+fastly-insights.com
+google-analytics.com
+sb.scorecardresearch.com
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+googletagmanager.com
+googletagservices.com
+gstatic.com
+vt.myvisualiq.net
+
+#test
+Crl.comodoca.com
+Crl.comodoca4.com
