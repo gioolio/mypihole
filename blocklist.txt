@@ -8,3 +8,6 @@ support.microsoft.com
 canonicalizer.ucsuri.tcs
 checkappexec.microsoft.com
 t.checkappexec.microsoft.com
+
+#spotify test
+adeventtracker.spotify.com
