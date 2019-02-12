@@ -9,6 +9,7 @@ canonicalizer.ucsuri.tcs
 checkappexec.microsoft.com
 t.checkappexec.microsoft.com
 licensing.mp.microsoft.com
+n214adserv.com
 
 #Windows Media Playa
 onlinestores.metaservices.microsoft.com
