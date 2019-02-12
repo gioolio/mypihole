@@ -10,6 +10,14 @@ checkappexec.microsoft.com
 t.checkappexec.microsoft.com
 licensing.mp.microsoft.com
 
+#Windows Media Playa
+onlinestores.metaservices.microsoft.com
+settings-win.data.microsoft.com
+redir.metaservices.microsoft.com
+
+#winrar
+https://notifier.rarlab.com
+
 #spotify test
 adeventtracker.spotify.com
 pixel-static.spotify.com
