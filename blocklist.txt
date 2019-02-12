@@ -54,3 +54,6 @@ geo.kaspersky.com
 geo.labkas.com
 kaspersky-labs.com
 kas-labs.com
+
+#Samsung TV
+log-config.samsungacr.com
