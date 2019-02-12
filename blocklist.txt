@@ -57,3 +57,4 @@ kas-labs.com
 
 #Samsung TV
 log-config.samsungacr.com
+config.samsungads.com
