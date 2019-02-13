@@ -10,6 +10,11 @@ checkappexec.microsoft.com
 t.checkappexec.microsoft.com
 licensing.mp.microsoft.com
 n214adserv.com
+vortex.data.microsoft.com
+dc.services.visualstudio.com
+az667904.vo.msecnd.net
+az700632.vo.msecnd.net
+visualstudio-devdiv-c2s.msedge.net
 
 #Windows Media Playa
 onlinestores.metaservices.microsoft.com
