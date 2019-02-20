@@ -40,6 +40,7 @@ googletagmanager.com
 googletagservices.com
 gstatic.com
 vt.myvisualiq.net
+secure-ds.serving-sys.com
 
 #ads porn
 stripcdn.com
