@@ -55,6 +55,10 @@ propornlive.com
 cdn.banclip.com
 a.adtng.com
 rev.adsession.com
+vz-cdn.trafficjunky.net
+s-img.traffic-media.co.uk
+jsmcrptjmp.com
+static.exosrv.com
 
 #test
 Crl.comodoca.com
