@@ -30,6 +30,8 @@ https://notifier.rarlab.com
 adeventtracker.spotify.com
 pubads.g.doubleclick.net
 pixel-static.spotify.com
+adservice.google.com
+securepubads.g.doubleclick.net
 
 #ads test
 fastly-insights.com
