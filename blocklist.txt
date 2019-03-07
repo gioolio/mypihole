@@ -32,6 +32,7 @@ pubads.g.doubleclick.net
 pixel-static.spotify.com
 adservice.google.com
 securepubads.g.doubleclick.net
+spclient.wg.spotify.com
 
 #ads test
 fastly-insights.com
