@@ -28,6 +28,7 @@ https://notifier.rarlab.com
 
 #spotify test
 adeventtracker.spotify.com
+pubads.g.doubleclick.net
 pixel-static.spotify.com
 
 #ads test
