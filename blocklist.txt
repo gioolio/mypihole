@@ -63,6 +63,7 @@ vz-cdn.trafficjunky.net
 s-img.traffic-media.co.uk
 jsmcrptjmp.com
 static.exosrv.com
+cp.bbbp1.com
 
 #test
 Crl.comodoca.com
