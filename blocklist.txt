@@ -33,6 +33,7 @@ pixel-static.spotify.com
 adservice.google.com
 securepubads.g.doubleclick.net
 spclient.wg.spotify.com/ads/
+bs.serving-sys.com
 
 #ads test
 fastly-insights.com
