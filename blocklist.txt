@@ -28,11 +28,13 @@ https://notifier.rarlab.com
 
 #spotify test
 adeventtracker.spotify.com
+spclient.wg.spotify.com/ad-logic
+spclient.wg.spotify.com/ads/
+adclick.g.doubleclick.net
+securepubads.g.doubleclick.net
 pubads.g.doubleclick.net
 pixel-static.spotify.com
 adservice.google.com
-securepubads.g.doubleclick.net
-spclient.wg.spotify.com/ads/
 bs.serving-sys.com
 
 #ads test
