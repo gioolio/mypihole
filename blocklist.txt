@@ -87,3 +87,6 @@ config.samsungads.com
 lcprd2.samsungcloudsolution.net
 lcprd1.samsungcloudsolution.net
 #whitelist infolink.pavv.co.kr and cdn.samsungcloudsolution.com for the SamsungStore
+
+#Adobe Acrobat goes crazy for this
+armmf.adobe.com
