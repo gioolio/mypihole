@@ -36,6 +36,7 @@ pubads.g.doubleclick.net
 pixel-static.spotify.com
 adservice.google.com
 bs.serving-sys.com
+video-akp-cdn-spotify-com.akamaized.net
 
 #ads test
 fastly-insights.com
