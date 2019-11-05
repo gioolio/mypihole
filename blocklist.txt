@@ -17,6 +17,7 @@ az700632.vo.msecnd.net
 visualstudio-devdiv-c2s.msedge.net
 onecs-live.azureedge.net
 settings-win.data.microsoft.com
+presence-heartbeat.xboxlive.com
 
 #Windows Media Playa
 onlinestores.metaservices.microsoft.com
