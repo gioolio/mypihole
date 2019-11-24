@@ -18,6 +18,9 @@ visualstudio-devdiv-c2s.msedge.net
 onecs-live.azureedge.net
 settings-win.data.microsoft.com
 presence-heartbeat.xboxlive.com
+settings-win.data.microsoft.com
+arc.msn.com
+ris.api.iris.microsoft.com
 
 #Windows Media Playa
 onlinestores.metaservices.microsoft.com
