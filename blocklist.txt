@@ -43,6 +43,7 @@ bs.serving-sys.com
 video-akp-cdn-spotify-com.akamaized.net
 
 #ads test
+adclick.g.doubleclick.net
 fastly-insights.com
 google-analytics.com
 sb.scorecardresearch.com
